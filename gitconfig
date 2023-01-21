@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = jeanjacques.valery@gmail.com
+	name = Jean Jacques Valery
